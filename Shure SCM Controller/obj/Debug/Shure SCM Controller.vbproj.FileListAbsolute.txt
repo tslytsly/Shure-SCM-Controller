@@ -1,0 +1,11 @@
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\bin\Debug\Shure SCM Controller.exe.config
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure SCM Controller.vbprojResolveAssemblyReference.cache
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure_SCM_Controller.frmMain.resources
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure_SCM_Controller.Resources.resources
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure SCM Controller.vbproj.GenerateResource.Cache
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure SCM Controller.xml
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\bin\Debug\Shure SCM Controller.exe
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\bin\Debug\Shure SCM Controller.pdb
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\bin\Debug\Shure SCM Controller.xml
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure SCM Controller.exe
+D:\Users\tpsea\OneDrive\Documents\VisualStudioProjects\Shure SCM Controller\Shure SCM Controller\obj\Debug\Shure SCM Controller.pdb
